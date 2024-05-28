@@ -19,5 +19,6 @@ Currently, I'm diving deep into Node.js and React to expand my backend and front
 - [Twitter](https://x.com/Reisorel_42)
 
 ## 📌 Pinned Repositories
-[[Fun trivia project - rock themed](https://github.com/Reisorel/trivia_project)
-[[Bootcamp project - mobile game app]([https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=another-repo)](https://github.com/your-username/another-repo](https://github.com/F1uffee/gotcha))
+- ❓🎸 [Fun trivia project - rock themed](https://github.com/Reisorel/trivia_project)
+- 🎲 [Bootcamp project - mobile game app](https://github.com/F1uffee/gotcha)
+
