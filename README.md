@@ -1,6 +1,7 @@
 # Hello, I'm François 👋
 
-I'm a passionate fullstack developer with a keen interest in creating captivating and responsive web experiences. Currently mastering JavaScript, HTML5, and CSS. Currently, I'm diving deep into Node.js and React to expand my backend and frontend skills.
+I'm a passionate fullstack developer with a keen interest in creating captivating and responsive web experiences. Mastering JavaScript, HTML5, and CSS. 
+Currently, I'm diving deep into Node.js and React to expand my backend and frontend skills.
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
