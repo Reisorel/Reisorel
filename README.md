@@ -23,6 +23,7 @@ Currently, I'm diving deep into Node.js and React to expand my backend and front
 - [Twitter](https://x.com/Reisorel_42)
 
 ## 📌 Pinned Repositories
-- ❓🎸 [Fun trivia project - rock themed](https://github.com/Reisorel/trivia_project)
-- 🎲 [Bootcamp project - mobile game app](https://github.com/F1uffee/gotcha)
+- ❓🎸 [Fun trivia project - festival themed](https://github.com/Reisorel/trivia_project)
+- 🌊 [React Breizh travel agency](https://github.com/Reisorel/React_traveling_app)
+  
 
