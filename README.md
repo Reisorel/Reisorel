@@ -1,6 +1,6 @@
 # Hello, I'm François 👋
 
-I'm a passionate fullstack developer with a keen interest in creating captivating and responsive web experiences. Mastering JavaScript, HTML5, CSS. 
+I'm a passionate PM / fullstack developer with a keen interest in creating captivating and responsive web experiences for sustainable and live music business. Mastering JavaScript, HTML5, CSS. 
 Currently, I'm diving deep into Node.js and React to expand my backend and frontend skills.
 
 ## 💻 Tech Stack
