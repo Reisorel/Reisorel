@@ -24,5 +24,6 @@ Currently, I'm diving deep into Node.js and React to expand my backend and front
 ## 📌 Pinned Repositories
 - ❓🎶 [React fun quiz project - music themed](https://github.com/Reisorel/trivia_project)
 - 🌊 [React Breizh travel agency](https://github.com/Reisorel/React_traveling_app)
+- 🍿[React / Node app for random movie selection](https://github.com/Reisorel/filmomatic)
   
 
