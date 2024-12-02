@@ -21,7 +21,8 @@ Currently, I'm diving deep into Node.js and React to expand my backend and front
 
 
 ## 🚀 What I'm Working On
-- 🌱 Learning Node.js to enhance my backend development skills.
+- 🌱 Learning Node.js to enhance my comprehension of basic backend development skills.
+- 🐍 Learning Python (Django & Flask) to make my backends even more powerfull and flexi
 - 🚀 Building dynamic and responsive user interfaces with React.
 
 ## 📫 Let's Connect
