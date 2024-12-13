@@ -1,7 +1,8 @@
 # Hello, I'm François 👋
 
 I'm a passionate PM / fullstack developer with a keen interest in creating captivating and responsive web experiences for sustainable and live music business. Mastering JavaScript, HTML5, CSS. 
-Currently, I'm diving deep into Node.js and React to expand my backend and frontend skills.
+My current stack revolves around Node.js for the backend and React for the frontend, allowing me to create modular and user-friendly applications.
+I'm currently diving into Python and Django to explore more sophisticated backend solutions ! 🐍
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,8 +22,8 @@ Currently, I'm diving deep into Node.js and React to expand my backend and front
 
 
 ## 🚀 What I'm Working On
-- 🌱 Learning Node.js to enhance my comprehension of basic backend development skills.
-- 🐍 Learning Python (Django & Flask) to make my backends even more powerfull and flexi
+- 🌱 Enhancing my understanding of Node.js to improve my current stack.
+- 🐍 Learning Python (Django & Flask) to make my backends even more powerfull and flexible
 - 🚀 Building dynamic and responsive user interfaces with React.
 
 ## 📫 Let's Connect
