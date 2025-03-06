@@ -33,7 +33,7 @@ I'm currently diving into Python and Django to explore more sophisticated backen
 - [Twitter](https://x.com/Reisorel_42)
 
 ## 📌 Pinned Repositories
-- 📐 [Complete profesionnal architect website - Soon to be release !](https://archi-git-responsive1-reisorels-projects.vercel.app/)
+- 📐 [Complete profesionnal architect website - Soon to be release !]([https://archi-git-responsive1-reisorels-projects.vercel.app/](https://www.cassandre-architecture.fr/))
 - ❓🎶 [React fun quiz project - music themed](https://github.com/Reisorel/trivia_project)
 - 🌊 [React Breizh travel agency](https://github.com/Reisorel/React_traveling_app)
 - 🍿[React / Node app for random movie selection](https://github.com/Reisorel/filmomatic)
