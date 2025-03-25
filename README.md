@@ -14,13 +14,16 @@ I'm currently diving into Python and Django to explore more sophisticated backen
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 
 
@@ -35,7 +38,7 @@ I'm currently diving into Python and Django to explore more sophisticated backen
 - [Twitter](https://x.com/Reisorel_42)
 
 ## 📌 Pinned Repositories
-- 📐 [Complete profesionnal architect website - Soon to be release !](https://www.cassandre-architecture.fr/)
+- 📐 [Complete profesionnal architect website](https://www.cassandre-architecture.fr/)
 - ❓🎶 [React fun quiz project - music themed](https://github.com/Reisorel/trivia_project)
 - 🌊 [React Breizh travel agency](https://github.com/Reisorel/React_traveling_app)
 - 🍿[React / Node app for random movie selection](https://github.com/Reisorel/filmomatic)
